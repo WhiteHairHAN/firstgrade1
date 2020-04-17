@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<math.h>
+
+int main(void)
+{
+	double pi = 3.1415926535;
+	double x, y;
+
+	x = pi / 2;
+	y = sin(x);
+	printf("sin(%f) = %f\n", x, y);
+	y = sinh(x);
+	printf("sinh(%f) = %f\n", x, y);
+	y = cos(x);
+	printf("cos(%f) = %f\n", x, y);
+	y = cosh(x);
+	printf("cosh(%f) = %f\n", x, y);
+}

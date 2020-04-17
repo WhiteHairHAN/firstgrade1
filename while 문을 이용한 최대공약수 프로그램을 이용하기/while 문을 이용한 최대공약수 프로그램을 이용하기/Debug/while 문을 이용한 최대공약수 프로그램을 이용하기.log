@@ -1,0 +1,4 @@
+﻿  gcd.c
+c:\users\한재윤\documents\visual studio 2015\projects\while 문을 이용한 최대공약수 프로그램을 이용하기\while 문을 이용한 최대공약수 프로그램을 이용하기\gcd.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  while 문을 이용한 최대공약수 프로그램을 이용하기.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\while 문을 이용한 최대공약수 프로그램을 이용하기\Debug\while 문을 이용한 최대공약수 프로그램을 이용하기.exe

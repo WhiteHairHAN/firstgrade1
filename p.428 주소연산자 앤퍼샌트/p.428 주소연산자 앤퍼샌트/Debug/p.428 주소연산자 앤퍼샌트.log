@@ -1,0 +1,5 @@
+﻿  address_of.c
+c:\users\한재윤\documents\visual studio 2015\projects\p.428 주소연산자 앤퍼샌트\p.428 주소연산자 앤퍼샌트\address_of.c(8): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\한재윤\documents\visual studio 2015\projects\p.428 주소연산자 앤퍼샌트\p.428 주소연산자 앤퍼샌트\address_of.c(9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+c:\users\한재윤\documents\visual studio 2015\projects\p.428 주소연산자 앤퍼샌트\p.428 주소연산자 앤퍼샌트\address_of.c(10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  p.428 주소연산자 앤퍼샌트.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\p.428 주소연산자 앤퍼샌트\Debug\p.428 주소연산자 앤퍼샌트.exe

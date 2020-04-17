@@ -1,0 +1,4 @@
+﻿  convert1.c
+c:\users\한재윤\documents\visual studio 2015\projects\대입 연산시 자동적인 형변환\대입 연산시 자동적인 형변환\convert1.c(9): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+c:\users\한재윤\documents\visual studio 2015\projects\대입 연산시 자동적인 형변환\대입 연산시 자동적인 형변환\convert1.c(10): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  대입 연산시 자동적인 형변환.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\대입 연산시 자동적인 형변환\Debug\대입 연산시 자동적인 형변환.exe

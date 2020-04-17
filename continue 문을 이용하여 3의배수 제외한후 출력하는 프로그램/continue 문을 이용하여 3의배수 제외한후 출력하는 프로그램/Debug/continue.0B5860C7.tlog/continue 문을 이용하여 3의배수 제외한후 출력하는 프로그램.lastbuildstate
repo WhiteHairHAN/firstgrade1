@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|c:\users\한재윤\documents\visual studio 2015\Projects\continue 문을 이용하여 3의배수 제외한후 출력하는 프로그램\|

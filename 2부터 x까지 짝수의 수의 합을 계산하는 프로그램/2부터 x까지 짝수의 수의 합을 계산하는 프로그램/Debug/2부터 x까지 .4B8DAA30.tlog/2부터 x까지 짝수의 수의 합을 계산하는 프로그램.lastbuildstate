@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|c:\users\한재윤\documents\visual studio 2015\Projects\2부터 x까지 짝수의 수의 합을 계산하는 프로그램\|

@@ -1,0 +1,5 @@
+﻿  1.c
+c:\users\한재윤\documents\visual studio 2015\projects\p.477\p.477\1.c(10): warning C4129: 'h': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\한재윤\documents\visual studio 2015\projects\p.477\p.477\1.c(16): warning C4129: 'g': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\한재윤\documents\visual studio 2015\projects\p.477\p.477\1.c(18): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  p.477.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\p.477\Debug\p.477.exe

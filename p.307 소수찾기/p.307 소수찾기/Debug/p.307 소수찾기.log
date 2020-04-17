@@ -1,0 +1,5 @@
+﻿  sosu.c
+c:\users\한재윤\documents\visual studio 2015\projects\p.307 소수찾기\p.307 소수찾기\sosu.c(10): warning C4013: 'get_integer'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\한재윤\documents\visual studio 2015\projects\p.307 소수찾기\p.307 소수찾기\sosu.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  p.307 소수찾기.vcxproj -> c:\users\한재윤\documents\visual studio 2015\Projects\p.307 소수찾기\Debug\p.307 소수찾기.exe

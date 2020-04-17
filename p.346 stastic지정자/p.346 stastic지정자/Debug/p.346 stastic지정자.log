@@ -1,0 +1,3 @@
+﻿  static.c
+c:\users\한재윤\documents\visual studio 2015\projects\p.346 stastic지정자\p.346 stastic지정자\static.c(6): warning C4013: 'sub'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\한재윤\documents\visual studio 2015\projects\p.346 stastic지정자\p.346 stastic지정자\static.c(11): error C2371: 'sub': 재정의. 기본 형식이 다릅니다.
